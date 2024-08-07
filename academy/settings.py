@@ -126,5 +126,5 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 ZARRINPAL = {
     "gateway_request_url": "https://www.zarinpal.com/pg/services/WebGate/wsdl",
     "gateway_callback_url": "http://127.0.0.1:8000/finance/verify",
-    "merchant_id": ZRRINPAL_MERCHANT_ID,
+    # "merchant_id": ZRRINPAL_MERCHANT_ID,
 }
